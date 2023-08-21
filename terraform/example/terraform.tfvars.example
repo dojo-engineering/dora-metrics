@@ -1,4 +1,4 @@
 project_id = "dojo-platform-dev-2022"
 region = "europe-west2"
 bigquery_region = "EU"
-parsers = ["github"]
+parsers = "github"
